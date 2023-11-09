@@ -1,2 +1,2 @@
-# DigitalComnunications
-Digital Comnunications 1 NTUA
+# DigitalCommunications
+Digital Communications 1 NTUA
